@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gir",
+        "precio": 50000000,
+        "additionalProp1": {}
+    },
+    {
+        "id": 2,
+        "nombre": "Normando",
+        "precio": 7500000.0,
+        "additionalProp1": {}
+    },
+    {
+        "id": 5,
+        "nombre": "Holstein",
+        "precio": 100.0
+    },
+    {
+        "id": 10,
+        "nombre": "Pardo Suizo",
+        "precio": 12.0
+    },
+    {
+        "id": 4,
+        "nombre": "Jersey",
+        "precio": 80000000
+    }
+]

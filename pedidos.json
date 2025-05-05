@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "usuario_id": 1,
+        "productos": [
+            1,
+            10
+        ]
+    },
+    {
+        "id": 3,
+        "usuario_id": 4,
+        "productos": [
+            2,
+            5,
+            1
+        ]
+    }
+]
